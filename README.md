@@ -1,13 +1,12 @@
 # `RakshithDasari`
 
 <p align="center">
-  <img src="./profile-ascii.png" width="700" alt="ASCII-style portrait of Rakshith"/>
+  <img src="./ASCII-style%20portrait%20of%20Rakshith.png" width="700" alt="ASCII-style portrait of Rakshith"/>
 </p>
 
 <p align="center">
   <code>AI Engineer</code> · <code>Builder</code> · <code>Researcher</code>
 </p>
-
 ---
 
 ```text
