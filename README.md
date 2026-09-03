@@ -1,50 +1,80 @@
-# `RakshithDasari`
+RakshithDasari
 
-<p align="center">
-  <img src="./ASCII-style%20portrait%20of%20Rakshith.png" width="700" alt="ASCII-style portrait of Rakshith"/>
-</p>
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
 
-<p align="center">
-  <code>AI Engineer</code> · <code>Builder</code> · <code>Researcher</code>
-</p>
----
+<img src="./ASCII-style%20portrait%20of%20Rakshith.png" width="280" alt="ASCII-style portrait of Rakshith"/>
 
-```text
+</td>
+
+<td width="65%" valign="middle">
+
 rakshith@github:~$ whoami
 
 Rakshith Dasari
 AI Engineer focused on building intelligent systems that actually ship.
 
-Currently exploring:
+
+┌─ Currently exploring ─────────────────────────────┐
+
 → Agentic AI
 → RAG & Graph/Hypergraph reasoning
 → Multimodal AI
 → Full-stack AI products
-```
 
-## `~/about`
+└───────────────────────────────────────────────────┘
 
-I'm a Computer Science & Engineering student at **Bennett University** who likes working at the intersection of **AI research, software engineering and product design**.
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <code>AI Engineer</code> · <code>Builder</code> · <code>Researcher</code>
+</p>
+
+~/about
+
+I'm a Computer Science & Engineering student at Bennett University who likes working at the intersection of AI research, software engineering, and product design.
 
 My main interest is turning ambitious AI ideas into usable systems — from retrieval pipelines and agentic reasoning loops to real products with thoughtful interfaces.
 
-## `~/currently-building`
+I like understanding things from the ground up, experimenting with ideas that aren't always straightforward, and then turning those experiments into something people can actually use.
 
-### `HIRA`
-**Hypergraph-Indexed Retrieval Augmentation via Multimodal Agentic Reasoning**
+~/currently-building
 
-A research-oriented RAG architecture that replaces conventional knowledge graphs with **hypergraphs** for richer multi-relational reasoning, combines text and image embeddings, and uses an LLM-driven agentic reasoning loop for retrieval decisions.
+HIRA
 
-→ [View HIRA](https://github.com/RakshithDasari/HIRA)
+Hypergraph-Indexed Retrieval Augmentation via Multimodal Agentic Reasoning
 
-### `Auvia`
-**Agentic AI · Healthcare · SaaS**
+A research-oriented RAG architecture that replaces conventional knowledge graphs with hypergraphs for richer multi-relational reasoning.
 
-An AI-powered healthcare platform with analytics dashboards, agent-driven workflows and a voice AI component using real-time communication.
+HIRA combines:
 
-## `~/stack`
+Multimodal embeddings
 
-```text
+Hypergraph-based knowledge representation
+
+Agentic retrieval
+
+LLM-driven reasoning loops
+
+Context-aware information retrieval
+
+The goal is to move beyond simple similarity-based retrieval and explore how AI agents can reason over richer relationships between information.
+
+→ View HIRA
+
+Auvia
+
+Agentic AI · Healthcare · SaaS
+
+An AI-powered healthcare platform built around analytics, agent-driven workflows, and voice AI.
+
+The project combines a modern web interface with intelligent backend systems to explore how autonomous AI workflows can be integrated into real-world products.
+
+~/stack
+
 AI / ML       Python · PyTorch · Scikit-learn
 GenAI         RAG · LangChain · LangGraph · Prompt Engineering
 Frontend      React · Next.js · JavaScript · HTML · CSS
@@ -52,30 +82,36 @@ Backend       FastAPI
 Databases     PostgreSQL · MongoDB · ChromaDB · FAISS · Pinecone
 Cloud / Dev   AWS · Docker · Kubernetes · Git
 Product       Figma · UI/UX · Design Systems · Jira
-```
 
-## `~/experience`
+~/experience
 
-**Design Head & Product Manager — ZONOMO**  
-`May 2025 → July 2025`
+Design Head & Product Manager — ZONOMO
 
-Worked across product, engineering and design, building a scalable design system and contributing to a voice-enabled agentic AI feature and its LLM interaction flows.
+May 2025 → July 2025
 
-## `~/achievements`
+Worked across product, engineering, and design, helping shape the product experience while building a scalable design system.
 
-```text
+Also contributed to a voice-enabled agentic AI feature, including its LLM interaction flows and overall product experience.
+
+~/achievements
+
 01  Dean's List Award — Bennett University
 02  1st Place — Zenevia Hackathon
 03  3rd Place — Project Showcase 2.0
 04  3rd Place — Tech Gyan Hackathon @ IIT Hyderabad
-```
 
-## `~/certifications`
+~/certifications
 
-`AWS Certified Cloud Practitioner Foundations`  
-`AWS Certified AI Practitioner`
+AWS Certified Cloud Practitioner Foundations
+AWS Certified AI Practitioner
 
----
+~/philosophy
+
+Build things that are difficult.
+Understand why they work.
+Break them.
+Build them better.
+Ship.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rakshithdasari">LinkedIn</a>
