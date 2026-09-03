@@ -42,3 +42,11 @@ stack
     Computer Science & Engineering student at <b>Bennett University</b> building intelligent systems at the intersection of AI research, software engineering, and product design.
   </sub>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakshithDasari/RakshithDasari/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakshithDasari/RakshithDasari/output/github-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/RakshithDasari/RakshithDasari/output/github-snake.svg">
+  </picture>
+</p>
