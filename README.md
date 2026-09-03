@@ -10,68 +10,35 @@ RakshithDasari
 
 <td width="62%" valign="top">
 
-rakshith@github:~$ whoami
+exploring
 
-Rakshith Dasari
-AI Engineer · Builder · Researcher
+Agentic AI · RAG & Graph/Hypergraph Reasoning · Multimodal AI · Full-stack AI Products
 
-┌─ exploring ──────────────────────────────────────┐
-│ → Agentic AI                                     │
-│ → RAG & Graph/Hypergraph reasoning               │
-│ → Multimodal AI                                  │
-│ → Full-stack AI products                         │
-└─────────────────────────────────────────────────┘
+<br>
 
-┌─ building ───────────────────────────────────────┐
-│ HIRA                                             │
-│ Hypergraph-Indexed Retrieval Augmentation via    │
-│ Multimodal Agentic Reasoning                     │
-│                                                  │
-│ Auvia                                            │
-│ Agentic AI · Healthcare · SaaS                   │
-└─────────────────────────────────────────────────┘
+stack
 
-┌─ stack ──────────────────────────────────────────┐
-│ AI/ML       Python · PyTorch · Scikit-learn      │
-│ GenAI       RAG · LangChain · LangGraph          │
-│ Frontend    React · Next.js · JavaScript         │
-│ Backend     FastAPI                              │
-│ Data        PostgreSQL · MongoDB · ChromaDB      │
-│             FAISS · Pinecone                     │
-│ Cloud       AWS · Docker · Kubernetes · Git      │
-│ Product     Figma · UI/UX · Jira                 │
-└─────────────────────────────────────────────────┘
-
-┌─ experience ─────────────────────────────────────┐
-│ Design Head & Product Manager — ZONOMO           │
-│ May 2025 → July 2025                             │
-│ Product · Engineering · Design · Voice AI        │
-└─────────────────────────────────────────────────┘
-
-┌─ achievements ───────────────────────────────────┐
-│ Dean's List Award — Bennett University            │
-│ 1st Place — Zenevia Hackathon                    │
-│ 3rd Place — Project Showcase 2.0                │
-│ 3rd Place — Tech Gyan Hackathon @ IIT Hyderabad │
-└─────────────────────────────────────────────────┘
-
-┌─ certifications ─────────────────────────────────┐
-│ AWS Certified Cloud Practitioner Foundations     │
-│ AWS Certified AI Practitioner                    │
-└─────────────────────────────────────────────────┘
-
-<p align="center">
-  <code>AI Engineer</code> · <code>Builder</code> · <code>Researcher</code>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" height="42" alt="Python, PyTorch, Scikit-learn"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" height="42" alt="React, Next.js, JavaScript, HTML, CSS"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="42" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="42" alt="PostgreSQL, MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git" height="42" alt="Docker, Kubernetes, AWS, Git"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/RakshithDasari/HIRA">HIRA</a> ·
-  <a href="https://www.linkedin.com/in/rakshithdasari">LinkedIn</a> ·
-  <a href="mailto:rakshithdasari07@gmail.com">Email</a>
+<p>
+  <sub>
+    RAG · LangChain · LangGraph · ChromaDB · FAISS · Pinecone · Prompt Engineering · UI/UX · Jira
+  </sub>
 </p>
 
 </td>
 </tr>
 </table>
 
-I'm a Computer Science & Engineering student at Bennett University focused on turning ambitious AI ideas into usable systems, working across AI research, agentic reasoning, software engineering, and product design.
+<p align="center">
+  <sub>
+    Computer Science & Engineering student at <b>Bennett University</b> building intelligent systems at the intersection of AI research, software engineering, and product design.
+  </sub>
+</p>
