@@ -1,7 +1,7 @@
 # `RakshithDasari`
 
 <p align="center">
-  <img src="./profile-ascii.svg" width="700" alt="ASCII-style portrait of Rakshith"/>
+  <img src="./profile-ascii.png" width="700" alt="ASCII-style portrait of Rakshith"/>
 </p>
 
 <p align="center">
